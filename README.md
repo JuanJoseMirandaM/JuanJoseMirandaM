@@ -39,6 +39,9 @@ Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar
 ### 😎 Tecnologías en las que soy bueno
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 📌🤓 Últimos artículos en mi blog
