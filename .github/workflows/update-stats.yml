@@ -5,7 +5,7 @@ on:
   schedule:
   # Runs every 24 hours
   # - cron: "0 */24 * * *"
-  - cron: "*/1 * * * *"
+  - cron: "*/10 * * * *"
 jobs:
   update-readme:
     name: Update README
