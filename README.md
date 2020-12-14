@@ -15,6 +15,8 @@
 
 Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar fotografias.
 
+<img align="right" alt="GIF" src="./images/gif-juanjose.gif" width="500" height="320" />
+
 ### 👨‍💻🕵‍♀💻 Actualmente estoy
 
 - Trabajando de ***Freelancer***
