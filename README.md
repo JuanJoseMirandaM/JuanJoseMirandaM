@@ -39,6 +39,12 @@ Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar
 ### 📊 Tecnologías que más ocupé esta semana
 
 <!--START_SECTION:waka-->
+```text
+YAML       40 mins         █████████████░░░░░░░░░░░░   52.22 % 
+Markdown   24 mins         ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Text       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Java       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+```
 <!--END_SECTION:waka-->
 
 ### 📌🤓 Últimos artículos en mi blog
