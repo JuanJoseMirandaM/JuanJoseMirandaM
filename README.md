@@ -1,8 +1,5 @@
 ## Hola 👋, Soy [Juan Jose](http://juanjoses.me)
 
-
-
-
 <a href="https://www.linkedin.com/in/juanjosemirandam/">
   <img align="left" alt="Juan Jose Miranda | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +12,7 @@
 
 Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar fotografias.
 
-<img align="right" alt="GIF" src="./images/gif-juanjose.gif" max-width="500" height="320" />
+<img align="right" alt="GIF" src="./images/gif-juanjose.gif" width="500" max-height="320" />
 
 ### 👨‍💻🕵‍♀💻 Actualmente estoy
 
@@ -47,4 +44,4 @@ Java       2 mins          ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### 📌🤓 Últimos artículos en mi blog
+<!-- ### 📌🤓 Últimos artículos en mi blog -->
