@@ -37,10 +37,9 @@ Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar
 
 <!--START_SECTION:waka-->
 ```text
-Java         18 hrs 56 mins  ████████████████████▓░░░░   82.87 % 
-JavaScript   3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java         17 hrs 9 mins   ████████████████████▒░░░░   81.68 % 
+JavaScript   3 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 % 
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 
