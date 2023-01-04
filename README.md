@@ -38,10 +38,10 @@ Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 4 hrs 40 mins   █████████████▒░░░░░░░░░░░   52.92 %
-SQL                        1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-HTML                       1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Other                      48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+TypeScript                 4 hrs 40 mins   █████████████▒░░░░░░░░░░░   53.14 %
+SQL                        1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+HTML                       1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Other                      39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
