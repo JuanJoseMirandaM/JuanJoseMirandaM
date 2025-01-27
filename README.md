@@ -1,4 +1,4 @@
-## Hola 👋, Soy [Juan Jose](http://juanjoses.me)
+## Hi there 👋, I'm Juan Jose 😎
 
 <a href="https://www.linkedin.com/in/juanjosemirandam/">
   <img align="left" alt="Juan Jose Miranda | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
