@@ -1,50 +1,55 @@
-## Hi there 👋, I'm Juan Jose 😎
+### Hi there, I'm [Juan Jose](https://www.linkedin.com/in/juanjosemirandam/) 👋 
+<img align="right" alt="GIF" src="./images/gif-juanjose.gif" width="300"/>
 
-<a href="https://www.linkedin.com/in/juanjosemirandam/">
-  <img align="left" alt="Juan Jose Miranda | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+## I'm a Developer, and Professor!!!
+- I'm currently working on a personal project.
+- I’m currently learning [Angular](https://angular.dev/).
+- I’m looking to collaborate on other content creators.
+- Fun fact: I love traveling and cooking.
+<br/>
 
-<a href="https://www.instagram.com/juan.jose.miranda/">
-  <img align="left" alt="Juan Jose Miranda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+### Languages and Tools:
+<!-- BE -->
+<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" style="margin-right: 20px;"/>
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="margin-right: 20px;"/>
+<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" style="margin-right: 20px;"/>
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="margin-right: 20px;"/>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="margin-right: 20px;"/>
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="margin-right: 20px;"/>
+<br />
+<br />
 
-<br /> <br />
+<!-- FE -->
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" style="margin-right: 20px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 20px;"/>
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" style="margin-right: 20px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 20px;"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 20px;"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" style="margin-right: 20px;"/>
+<br />
+<br />
 
-Hola soy Juan Jose Miranda soy Full Stack Developer y me gusta programar y tomar fotografias.
+<!-- Others -->
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" style="margin-right: 20px;"/>
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" style="margin-right: 20px;"/>
+<img align="left" alt="CICD" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" style="margin-right: 20px;"/>
+<img align="left" alt="Playwright" width="26px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" style="margin-right: 20px;"/>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 20px;"/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 20px;"/>
 
-<img align="right" alt="GIF" src="./images/gif-juanjose.gif" width="500" max-height="320" />
+<br />
+<br />
 
-### 👨‍💻🕵‍♀💻 Actualmente estoy
-
-- Trabajando de ***Freelancer***
-- Doy clases de programacion inicial
-- Escribiendo en mi ***[Blog](http://juanjoses.me)***
-- Aprendiendo mas spring
-- Viajando por Bolivia 
-
-### 😎 Tecnologías en las que soy bueno
-
-<code><img alt="Spring" height="40px" src="./images/spring-icon.svg"/></code>
-<code><img alt="NodeJS" height="40px" src="./images/nodejs-icon.svg" /></code>
-<code><img alt="ReactJS" height="40px" src="./images/react-icon.svg" /></code>
-<code><img alt="HTML5" height="40px" src="./images/html-icon.png" /></code>
-<code><img alt="JavaScript" height="40px" src="./images/js-icon.png"  /></code>
-<code><img alt="CSS3" height="40px" src="./images/css-icon.png" /></code>
-
-<br/><br/>
-
-### 📊 Tecnologías que más ocupé esta semana
+### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              1 hr 3 mins     ██████████▒░░░░░░░░░░░░░░   41.80 %
-TypeScript        49 mins         ████████░░░░░░░░░░░░░░░░░   32.35 %
-Java              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JSON              10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-TSConfig          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Angular           5 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.80 %
+TypeScript        3 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   32.35 %
+Java              59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JSON              50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+TSConfig          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- ### 📌🤓 Últimos artículos en mi blog -->
