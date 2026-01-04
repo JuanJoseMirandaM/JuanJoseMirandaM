@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS                       3 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   40.33 %
-HTML                       2 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
-SQL                        1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-TypeScript                 35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Nginx configuration file   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+SCSS                       3 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   45.34 %
+HTML                       2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+SQL                        1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Nginx configuration file   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript                 14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
