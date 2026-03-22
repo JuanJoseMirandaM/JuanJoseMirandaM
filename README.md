@@ -45,11 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 51 mins          ██████████████░░░░░░░░░░░   55.55 %
-TypeScript        55 mins               ███████░░░░░░░░░░░░░░░░░░   27.56 %
-Properties        18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-HTML              8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Java Properties   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
